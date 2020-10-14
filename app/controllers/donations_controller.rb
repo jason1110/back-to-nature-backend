@@ -12,7 +12,7 @@ class DonationsController < ApplicationController
     def create
         @new_user = User.create(
             name: params[:user],
-            email: params[:tree]
+            tree: params[:tree]
         )
     end
 
