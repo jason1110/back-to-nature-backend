@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Back to Nature backend API
 
-Things you may want to cover:
+This is the api fpr the Back to Nature web app that provides user and tree seeds for the donation section of the website
 
-* Ruby version
+Ruby version 2.6.1
 
-* System dependencies
+rails', '~> 6.0.3', '>= 6.0.3.4
+sqlite3', '~> 1.4
+puma', '~> 4.1
+bootsnap', '>= 1.4.2 require: false
+rack-cors
+listen', '~> 3.2
+spring
+spring-watcher-listen', '~> 2.0.0
 
-* Configuration
+Windows only
+tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
