@@ -14,6 +14,5 @@ Ruby version 2.6.1
   <li>rack-cors</li>
   <li>listen', '~> 3.2</li>
   <li>spring</li>
-  <li>spring-watcher-listen', '~> 2.0.0</li>,
+  <li>spring-watcher-listen', '~> 2.0.0</li>
 </ul>
-
